@@ -1,7 +1,7 @@
 # Internet-Speed-Test-App
 
 Internet speed testing app built using python language and speedtest-cli module (and tkinter for gui).
-The data that get from this app is not accurate, I suggest to test from other websites instead.
+Information provided by this app may not accurate. I recommend testing from another website instead.
 
 ## ⌨️ Keybinds
 * **Enter** - Try testing internet speed again.
